@@ -9,8 +9,9 @@ npm run test:search:window
 
 (or)
 
-```
 npm run test:search:mac
+
+```
 
 ## Contacts
 
